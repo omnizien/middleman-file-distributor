@@ -1,0 +1,6 @@
+expand upon collection names
+
+something like:
+Class Collections(enum.Enum):
+    text = 'websitename_test_collection'
+    audio = 'websitename_audio_collection'

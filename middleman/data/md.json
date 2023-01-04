@@ -1,0 +1,16 @@
+{
+  "documents": [
+    {
+      "collection": "test_collection",
+      "title": "4",
+      "mediatype": "document",
+      "file": "4.txt"
+       },                                {
+      "collection": "test_collection",
+      "title": "5",
+      "mediatype": "document",
+      "file": "5.txt"
+       }
+
+  ]
+}
